@@ -1,0 +1,5 @@
+//login sql
+mysql -u root -p
+
+//membuat database baru
+create database sekolah;
